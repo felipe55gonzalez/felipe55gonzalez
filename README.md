@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200/></p>
 
 
 - 🌱 Actualmente desarollo sistemas informaticos a la medida para empresas o clientes de mi ciudad
@@ -24,7 +24,6 @@
   <a href="https://fb.com/Felipebernardo23" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
- v
 </p>
 
 <h1>📜 Proyectos</h1>
