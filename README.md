@@ -49,6 +49,9 @@
        <li>Compatible con Bascula Digital.</li>
        <li>Gestion de ventas, usuarios y clientes.</li>
    </ul>
+   <h3>Estos son algunos de los sistemas o proyectos mios que pueden ser publicos,
+   Pero eh desarollado muchos otros los cuales por ser parte de una empresa
+   estos son pudeden ser mostrados de manera publica </h3>
    <h2>💼 Experiencia Profesional</h2>
    <h3>Tecnico de Sistemas en Fabricas elena</h3>
    <p><strong>Período:</strong> 2017 - 2020</p>
@@ -58,19 +61,35 @@
        <li>Implementar estrategias de tecnología para mejorar la eficiencia operativa.</li>
        <li>Gestionar la infraestructura de las Redes y asegurar la seguridad de la información.</li>
    </ul>
+   <h3>Gerente en Restaurent el Tapatio</h3>
+   <p><strong>Período:</strong> 2020 - Empleo Actual</p>
+   <p><strong>Responsabilidades:</strong></p>
+   <ul>
+       <li>Gestion de Inventario.</li>
+       <li>Administracion y contabilidad.</li>
+       <li>Gestion y control de empleados.</li>
+   </ul>
+      <h3>Tecnico IT en Modelorama</h3>
+      <p><strong>Período:</strong> 2015 - 2017</p>
+      <p><strong>Responsabilidades:</strong></p>
+    <ul>
+       <li>Desarrollar sistemas para mejorar la comunicación entre departamentos.</li>
+       <li>Mantenimiento preventivo y correctivo de computadoras.</li>
+       <li>Creación, mantenimiento y monitoreo de la red interna.</li>
+   </ul>
   <h2>📚 Educación</h2>
    <h3>Ingeniero en Sistemas</h3>
    <p><strong>Institución:</strong> Tecnológico de Ciudad Acuña<br>
-   <strong>Período:</strong> [Año de inicio] - [Año de finalización]<br>
-   <strong>Descripción:</strong> [Breve descripción del programa o logros destacados]</p>
+   <strong>Período:</strong> 2012 - 2019<br>
+   <strong>Descripción:</strong> Ingeniero en sistemaas especializado en desarollo de software</p>
    <h3>Técnico en Informática</h3>
    <p><strong>Institución:</strong> CBTIS 54<br>
-   <strong>Período:</strong> [Año de inicio] - [Año de finalización]<br>
-   <strong>Descripción:</strong> [Breve descripción del programa o logros destacados]</p>
+   <strong>Período:</strong>2009 - 2012<br>
+   <strong>Descripción:</strong>Tecnico en infomatica especializado en mantenimieto a computadoras</p>
    <h2>🌟 Habilidades</h2>
    <ul>
        <li>Desarrollador de Software</li>
-       <li>Mantenimiento preventivo y correctivo de computadoras y otras computadoras</li>
+       <li>Mantenimiento preventivo y correctivo de computadoras y otras Tecnologias</li>
        <li>Instalación de software</li>
        <li>Instalación y mantenimiento de redes</li>
        <li>Mantenimiento Básico de Active Directory</li>
@@ -82,8 +101,6 @@
    <p><strong>Correo Electrónico:</strong> felipe.bernardo.gonzalez@gmail.com<br>
    <strong>Teléfono:</strong> +52 8771407567<br>
    <strong>Dirección:</strong> Parras #176, Alamedas. Acuña, Coahuila<br>
-   <strong>LinkedIn:</strong> [Enlace a tu perfil de LinkedIn]<br>
-   <strong>Twitter:</strong> [Enlace a tu perfil de Twitter]</p>
    <h2>📖 Acerca de mí</h2>
    <ul>
        <li>Autodidacta</li>
