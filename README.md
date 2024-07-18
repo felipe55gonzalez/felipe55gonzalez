@@ -40,23 +40,23 @@
        <li>Compatible con Android y IOS.</li>
        <li>Seguimiento de tu pedido en tiempo real.</li>
    </ul>
-   <h3>4. Análisis de Datos de Ventas 📊</h3>
-   <p><strong>Descripción:</strong> Proyecto de análisis de datos de ventas utilizando técnicas de ciencia de datos.<br>
-   <strong>Tecnologías:</strong> Python, Pandas, Matplotlib, Scikit-learn</p>
+   <h3>4. ExpSysPos 📊</h3>
+   <p><strong>Descripción:</strong> Avanzado punto de venta.<br>
+   <strong>Tecnologías:</strong> Mysql, C#, Access</p>
    <p><strong>Características:</strong></p>
    <ul>
-       <li>Limpieza y transformación de datos.</li>
-       <li>Análisis exploratorio de datos (EDA).</li>
-       <li>Modelos de predicción de ventas.</li>
+       <li>Base de datos simple de usar.</li>
+       <li>Compatible con Bascula Digital.</li>
+       <li>Gestion de ventas, usuarios y clientes.</li>
    </ul>
    <h2>💼 Experiencia Profesional</h2>
-   <h3>Gerente de Sistemas en [Nombre de la Empresa]</h3>
-   <p><strong>Período:</strong> [Mes/Año de inicio] - [Mes/Año de finalización]</p>
+   <h3>Tecnico de Sistemas en Fabricas elena</h3>
+   <p><strong>Período:</strong> 2017 - 2020</p>
    <p><strong>Responsabilidades:</strong></p>
    <ul>
-       <li>Liderar el equipo de desarrollo de software.</li>
+       <li>Desarrollo de software.</li>
        <li>Implementar estrategias de tecnología para mejorar la eficiencia operativa.</li>
-       <li>Gestionar la infraestructura de TI y asegurar la seguridad de la información.</li>
+       <li>Gestionar la infraestructura de las Redes y asegurar la seguridad de la información.</li>
    </ul>
   <h2>📚 Educación</h2>
    <h3>Ingeniero en Sistemas</h3>
