@@ -1,102 +1,118 @@
-<h1 align="center">Hola 👋, Soy Felipe Gonzalez</h1>
-<h3 align="center">Ingeniero en Sistemas🌟.</h3>
+    <h1 align="center">Hola 👋, Soy Felipe Gonzalez</h1>
+    <h3 align="center">Ingeniero en Sistemas🌟.</h3>
 
-<br>
+    <br>
 
-<p align="right"> <h3> Visitas a mi perfil :</h3><img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+    <p align="right">
+        <h3>Visitas a mi perfil :</h3>
+        <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" /> 
+    </p>
 
-<br>
+    <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200/></p>
+    <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200" /></p>
 
+    <h1>Mi Portafolio de Proyectos</h1>
 
-- 🌱 Actualmente desarollo sistemas informaticos a la medida para empresas o clientes de mi ciudad
+    <p>🌱 Actualmente desarrollo sistemas informáticos a la medida para empresas o clientes de mi ciudad</p>
+    <p>📫 Contactame: <strong>Felipe.bernardo.gonzalez@gmail.com</strong></p>
 
-- 📫 Contactame **Felipe.bernardo.gonzalez@gmail.com**
+    <br>
 
+    <h2>📜 Proyectos</h2>
 
-<br>
+    <h3>1. Resicladoda ♻️</h3>
+    <p><strong>Descripción:</strong> Sistema para una recicladora que gestiona compras y ventas de materiales.<br>
+    <strong>Tecnologías:</strong> ASP.NET Core, C#, Entity Framework, SQL Server</p>
+    <p><strong>Características:</strong></p>
+    <ul>
+        <li>Gestión de usuarios con inicio de sesión seguro.</li>
+        <li>Registro de movimientos de materiales.</li>
+        <li>Sistema de caja con inicio de día y registro de montos iniciales.</li>
+    </ul>
 
-<h3 align="left">Mis redes Sociales:</h3>
-<p align="left">
-  <a href="https://fb.com/Felipebernardo23" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-</p>
+    <h3>2. Sistema de Inventarios 📦</h3>
+    <p><strong>Descripción:</strong> Aplicación para la gestión de inventarios en una empresa.<br>
+    <strong>Tecnologías:</strong> Java, Spring Boot, MySQL</p>
+    <p><strong>Características:</strong></p>
+    <ul>
+        <li>CRUD completo para productos.</li>
+        <li>Generación de reportes de inventario.</li>
+        <li>Notificaciones de stock bajo.</li>
+    </ul>
 
-<h1>📜 Proyectos</h1>
-<h3>1. Resicladoda ♻️</h3>
-Descripción: Sistema para una recicladora que gestiona compras y ventas de materiales.
-Tecnologías: ASP.NET Core, C#, Entity Framework, SQL Server
-Características:
+    <h3>3. Plataforma de E-Learning 📚</h3>
+    <p><strong>Descripción:</strong> Plataforma educativa para cursos en línea.<br>
+    <strong>Tecnologías:</strong> React, Node.js, MongoDB</p>
+    <p><strong>Características:</strong></p>
+    <ul>
+        <li>Registro y gestión de usuarios y cursos.</li>
+        <li>Sistema de evaluación y calificaciones.</li>
+        <li>Foros de discusión para estudiantes.</li>
+    </ul>
 
-Gestión de usuarios con inicio de sesión seguro.
-Registro de movimientos de materiales.
-Sistema de caja con inicio de día y registro de montos iniciales.
+    <h3>4. Análisis de Datos de Ventas 📊</h3>
+    <p><strong>Descripción:</strong> Proyecto de análisis de datos de ventas utilizando técnicas de ciencia de datos.<br>
+    <strong>Tecnologías:</strong> Python, Pandas, Matplotlib, Scikit-learn</p>
+    <p><strong>Características:</strong></p>
+    <ul>
+        <li>Limpieza y transformación de datos.</li>
+        <li>Análisis exploratorio de datos (EDA).</li>
+        <li>Modelos de predicción de ventas.</li>
+    </ul>
 
-2. Sistema de Inventarios 📦
-Descripción: Aplicación para la gestión de inventarios en una empresa.
-Tecnologías: Java, Spring Boot, MySQL
-Características:
+    <h2>💼 Experiencia Profesional</h2>
+    <h3>Gerente de Sistemas en [Nombre de la Empresa]</h3>
+    <p><strong>Período:</strong> [Mes/Año de inicio] - [Mes/Año de finalización]</p>
+    <p><strong>Responsabilidades:</strong></p>
+    <ul>
+        <li>Liderar el equipo de desarrollo de software.</li>
+        <li>Implementar estrategias de tecnología para mejorar la eficiencia operativa.</li>
+        <li>Gestionar la infraestructura de TI y asegurar la seguridad de la información.</li>
+    </ul>
 
-CRUD completo para productos.
-Generación de reportes de inventario.
-Notificaciones de stock bajo.
-3. Plataforma de E-Learning 📚
-Descripción: Plataforma educativa para cursos en línea.
-Tecnologías: React, Node.js, MongoDB
-Características:
+    <h2>📚 Educación</h2>
+    <h3>Ingeniero en Sistemas</h3>
+    <p><strong>Institución:</strong> Tecnológico de Ciudad Acuña<br>
+    <strong>Período:</strong> [Año de inicio] - [Año de finalización]<br>
+    <strong>Descripción:</strong> [Breve descripción del programa o logros destacados]</p>
 
-Registro y gestión de usuarios y cursos.
-Sistema de evaluación y calificaciones.
-Foros de discusión para estudiantes.
-4. Análisis de Datos de Ventas 📊
-Descripción: Proyecto de análisis de datos de ventas utilizando técnicas de ciencia de datos.
-Tecnologías: Python, Pandas, Matplotlib, Scikit-learn
-Características:
+    <h3>Técnico en Informática</h3>
+    <p><strong>Institución:</strong> CBTIS 54<br>
+    <strong>Período:</strong> [Año de inicio] - [Año de finalización]<br>
+    <strong>Descripción:</strong> [Breve descripción del programa o logros destacados]</p>
 
-Limpieza y transformación de datos.
-Análisis exploratorio de datos (EDA).
-Modelos de predicción de ventas.
-💼 Experiencia Profesional
-Gerente de Sistemas en [Nombre de la Empresa]
-Período: [Mes/Año de inicio] - [Mes/Año de finalización]
-Responsabilidades:
+    <h2>🌟 Habilidades</h2>
+    <ul>
+        <li>Desarrollador de Software</li>
+        <li>Mantenimiento preventivo y correctivo de computadoras y otras computadoras</li>
+        <li>Instalación de software</li>
+        <li>Instalación y mantenimiento de redes</li>
+        <li>Mantenimiento Básico de Active Directory</li>
+        <li>Configurar grupos y dominios en Windows</li>
+        <li>Creación y mantenimiento de bases de datos</li>
+        <li>Curso completo de inglés</li>
+    </ul>
 
-Liderar el equipo de desarrollo de software.
-Implementar estrategias de tecnología para mejorar la eficiencia operativa.
-Gestionar la infraestructura de TI y asegurar la seguridad de la información.
-📚 Educación
-Ingeniero en Sistemas
-Institución: Tecnológico de Ciudad Acuña
-Período: [Año de inicio] - [Año de finalización]
-Descripción: [Breve descripción del programa o logros destacados]
+    <h2>📫 Contacto</h2>
+    <p><strong>Correo Electrónico:</strong> felipe.bernardo.gonzalez@gmail.com<br>
+    <strong>Teléfono:</strong> +52 8771407567<br>
+    <strong>Dirección:</strong> Parras #176, Alamedas. Acuña, Coahuila<br>
+    <strong>LinkedIn:</strong> [Enlace a tu perfil de LinkedIn]<br>
+    <strong>Twitter:</strong> [Enlace a tu perfil de Twitter]</p>
 
-Técnico en Informática
-Institución: CBTIS 54
-Período: [Año de inicio] - [Año de finalización]
-Descripción: [Breve descripción del programa o logros destacados]
+    <h2>📖 Acerca de mí</h2>
+    <ul>
+        <li>Autodidacta</li>
+        <li>Creativo</li>
+        <li>Me gustan mucho las computadoras</li>
+        <li>Visa de Turista</li>
+        <li>30 años</li>
+    </ul>
 
-🌟 Habilidades
-Desarrollador de Software
-Mantenimiento preventivo y correctivo de computadoras y otras computadoras
-Instalación de software
-Instalación y mantenimiento de redes
-Mantenimiento Básico de Active Directory
-Configurar grupos y dominios en Windows
-Creación y mantenimiento de bases de datos
-Curso completo de inglés
-📫 Contacto
-Correo Electrónico: felipe.bernardo.gonzalez@gmail.com
-Teléfono: +52 8771407567
-Dirección: Parras #176, Alamedas. Acuña, Coahuila
-LinkedIn: [Enlace a tu perfil de LinkedIn]
-Twitter: [Enlace a tu perfil de Twitter]
-📖 Acerca de mí
-Autodidacta
-Creativo
-Me gustan mucho las computadoras
-Visa de Turista
-30 años
+    <h3 align="left">Mis redes Sociales:</h3>
+    <p align="left">
+      <a href="https://fb.com/Felipebernardo23" target="blank"><img align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+          alt="Facebook de Felipe" height="30" width="40" /></a>
+    </p>
