@@ -80,7 +80,7 @@
   <h2>📚 Educación</h2>
    <h3>Ingeniero en Sistemas</h3>
    <p><strong>Institución:</strong> Tecnológico de Ciudad Acuña<br>
-   <strong>Período:</strong> 2012 - 2019<br>
+   <strong>Período:</strong> 2012 - 2017<br>
    <strong>Descripción:</strong> Ingeniero en sistemaas especializado en desarollo de software</p>
    <h3>Técnico en Informática</h3>
    <p><strong>Institución:</strong> CBTIS 54<br>
