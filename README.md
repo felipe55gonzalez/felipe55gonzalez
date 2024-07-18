@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>h3> Visitas a mi perfil :-</<img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3> Visitas a mi perfil :</h3>-</<img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
@@ -29,8 +29,8 @@
 
 
 <p align="right"> <h3> Visitas a mi perfil</h3></p>
-📜 Proyectos
-1. Resicladoda ♻️
+<h3>📜 Proyectos</h3>
+<h2>1. Resicladoda ♻️</h2>
 Descripción: Sistema para una recicladora que gestiona compras y ventas de materiales.
 Tecnologías: ASP.NET Core, C#, Entity Framework, SQL Server
 Características:
@@ -38,6 +38,7 @@ Características:
 Gestión de usuarios con inicio de sesión seguro.
 Registro de movimientos de materiales.
 Sistema de caja con inicio de día y registro de montos iniciales.
+
 2. Sistema de Inventarios 📦
 Descripción: Aplicación para la gestión de inventarios en una empresa.
 Tecnologías: Java, Spring Boot, MySQL
