@@ -12,7 +12,10 @@
 <p>🌱 Actualmente desarrollo sistemas informáticos a la medida para empresas o clientes de mi ciudad</p>
 <p>📫 Contactame: <strong>Felipe.bernardo.gonzalez@gmail.com</strong></p>
 <br>
-<h2>📜 Proyectos</h2>
+<details>
+   <summary><h2>📜 Proyectos</h2></summary>
+   <div>
+<samp>
 <h3>1. Resicladoda ♻️</h3>
 <p><strong>Descripción:</strong> Sistema para una recicladora que gestiona compras y ventas de materiales.<br>
 <strong>Tecnologías:</strong> ASP.NET Core, C#, Entity Framework, SQL Server</p>
@@ -52,6 +55,9 @@
    <h3>Estos son algunos de los sistemas o proyectos mios que pueden ser publicos,
    Pero eh desarollado muchos otros los cuales por ser parte de una empresa
    estos son pudeden ser mostrados de manera publica </h3>
+</samp>
+   </div>
+</details>
    <h2>💼 Experiencia Profesional</h2>
    <h3>Tecnico de Sistemas en Fabricas elena</h3>
    <p><strong>Período:</strong> 2017 - 2020</p>
