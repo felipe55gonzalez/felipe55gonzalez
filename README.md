@@ -58,7 +58,11 @@
 </samp>
    </div>
 </details>
-   <h2>💼 Experiencia Profesional</h2>
+
+<details>
+   <summary><h2>💼 Experiencia Profesional</h2></summary>
+      <div>
+      <samp>
    <h3>Tecnico de Sistemas en Fabricas elena</h3>
    <p><strong>Período:</strong> 2017 - 2020</p>
    <p><strong>Responsabilidades:</strong></p>
@@ -83,8 +87,17 @@
        <li>Mantenimiento preventivo y correctivo de computadoras.</li>
        <li>Creación, mantenimiento y monitoreo de la red interna.</li>
    </ul>
-  <h2>📚 Educación</h2>
-   <h3>Ingeniero en Sistemas</h3>
+      </samp>
+      </div>
+ 
+</details>
+<details>
+   
+<summary><h2>📚 Educación</h2></summary>
+  
+<div>
+<samp>
+   <h3>Ingeniero en Sistemas</h3>   
    <p><strong>Institución:</strong> Tecnológico de Ciudad Acuña<br>
    <strong>Período:</strong> 2012 - 2017<br>
    <strong>Descripción:</strong> Ingeniero en sistemaas especializado en desarollo de software</p>
@@ -92,7 +105,14 @@
    <p><strong>Institución:</strong> CBTIS 54<br>
    <strong>Período:</strong>2009 - 2012<br>
    <strong>Descripción:</strong>Tecnico en infomatica especializado en mantenimieto a computadoras</p>
-   <h2>🌟 Habilidades</h2>
+           </samp>
+        </div>
+    
+  </details>
+  <details>
+     <summary><h2>🌟 Habilidades</h2></summary>
+        <div>
+      <samp>
    <ul>
        <li>Desarrollador de Software</li>
        <li>Mantenimiento preventivo y correctivo de computadoras y otras Tecnologias</li>
@@ -103,7 +123,14 @@
        <li>Creación y mantenimiento de bases de datos</li>
        <li>Curso completo de inglés</li>
    </ul>
-   <h2>📫 Contacto</h2>
+           </samp>
+        </div>
+    
+  </details>
+  <details>
+     <summary><h2>📫 Contacto</h2></summary>
+        <div>
+           <samp>
    <p><strong>Correo Electrónico:</strong> felipe.bernardo.gonzalez@gmail.com<br>
    <strong>Teléfono:</strong> +52 8771407567<br>
    <strong>Dirección:</strong> Parras #176, Alamedas. Acuña, Coahuila<br>
@@ -115,9 +142,20 @@
        <li>Visa de Turista</li>
       <li>30 años</li>
    </ul>
-  <h3 align="left">Mis redes Sociales:</h3>
+           </samp>
+        </div>
+     
+  </details>
+  <details>
+     <summary>  <h3 align="left">Mis redes Sociales:</h3></summary>
+        <div>
+           <samp>
   <p align="left">
   <a href="https://fb.com/Felipebernardo23" target="blank"><img align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
      alt="Facebook de Felipe" height="30" width="40" /></a>
  </p>
+           </samp>
+        </div>
+    
+  </details>
